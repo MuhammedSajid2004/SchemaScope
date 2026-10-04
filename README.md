@@ -56,11 +56,4 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ## 📄 License
 This project is open-source and available under the MIT License.ost:5173 (or the port Vite provides).
-📖 Usage Guide
-Write DDL: In the top-right SQL Console, type a standard SQLite CREATE TABLE statement. Ensure you define PRIMARY KEY and FOREIGN KEY constraints.
-Run Code: Press the Run button or hit Ctrl + Enter. Watch the table instantly appear on the left schema canvas!
-Insert Data: Write INSERT INTO... statements and run them.
-View Data: Look at the bottom-right Data Grid. Click on your table's tab to see the inserted rows.
-Export: Run a SELECT query, and click the Export CSV button in the green success bar to download your data.
-Edit Data: Switch your role to Admin in the top-right header, double-click a cell in the Data Grid, type a new value, and press Enter to instantly update the database.
-11:56 AM
+
