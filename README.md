@@ -1,6 +1,6 @@
 # SchemaScope
 
-SchemaScope is a live SQL visualizer and professional database IDE built entirely for the browser. It allows you to write SQL, execute queries against an in-memory SQLite database, and watch your Entity-Relationship (ER) diagram generate and update in real time. l
+SchemaScope is a live SQL visualizer and professional database IDE built entirely for the browser. It allows you to write SQL, execute queries against an in-memory SQLite database, and watch your Entity-Relationship (ER) diagram generate and update in real time. 
 
 Designed for students, educators, and professionals, SchemaScope removes the friction of backend setups by running 100% locally in your browser using WebAssembly.
 
